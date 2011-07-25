@@ -1,4 +1,5 @@
 .svn
 target/
-jetty-standalone-*.zip
+*jetty-standalone-*.zip
 web-app/
+plugin.xml

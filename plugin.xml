@@ -1,0 +1,15 @@
+<plugin name='jetty-standalone' version='0.2' grailsVersion='1.3.5 &gt; *'>
+  <author>Gert Wohlgemuth</author>
+  <authorEmail>berlinguyinca@gmail.com</authorEmail>
+  <title>Jetty7 - Standalone application</title>
+  <description>
+
+this plugin allows you to generate standalone application, which can be execute with java -jar APP_NAME.war
+
+Internally a jetty 7 application server is used,
+</description>
+  <documentation>http://grails.org/plugin/jetty-standalone</documentation>
+  <resources />
+  <dependencies />
+  <behavior />
+</plugin>

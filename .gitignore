@@ -1,1 +1,4 @@
 .svn
+target/
+jetty-standalone-*.zip
+web-app/
